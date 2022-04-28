@@ -1,7 +1,6 @@
 import React from 'react'
 
 function Todo(props) {
-
     const {item} = props;
 
   return (
